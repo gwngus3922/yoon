@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 gem 'magnific-popup-rails', '~> 1.1.0'
 gem 'bxslider-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.5'
+gem 'rails', '5.0.6'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
